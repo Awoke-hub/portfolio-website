@@ -1,0 +1,24 @@
+.login {
+  position: absolute;
+  top: 50px;
+  left: 200px;
+}
+.login .username-input {
+  position: relative;
+  left: 30px;
+}
+.login .password-input {
+  position: relative;
+  left: 34px;
+}
+.google-log {
+  position: relative;
+  border-top: 25px solid green;
+  border-right: 25px solid yellow;
+  border-bottom: 25px solid red;
+  border-left: 25px solid blue;
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+}
+Database if0_38629835_if0_38629835 has been created!
